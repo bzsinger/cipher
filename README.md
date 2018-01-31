@@ -7,5 +7,5 @@ Project 0, CS 361: Introduction to Computer Security
 ```bash
 git clone git@github.com:bzsinger/cipher.git
 cd cipher
-python cipher.py 
+python cipher.py <file_path>
 ```
